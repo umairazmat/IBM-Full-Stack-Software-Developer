@@ -1,0 +1,3 @@
+https://cloud-object-storage-te-cos-standard-rry.s3.us-east.cloud-object-storage.appdomain.cloud/index.html
+
+https://cloud-object-storage-te-cos-standard-rry.s3.us-east.cloud-object-storage.appdomain.cloud/
