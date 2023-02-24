@@ -1,0 +1,27 @@
+Lesson Summary
+In this lesson, you have learned:
+ 
+
+Cloud security refers to the policies, technological procedures, services, and solutions designed to secure the enterprise applications and data on cloud against insider threats, data breaches, compliance issues, and organized security threats. 
+
+Cloud security is a shared responsibility between the cloud provider and the user organization. 
+
+Security architecture and methods for achieving continuous security need to be embedded through the life cycle of an application to ensure that the application runs on a safe platform, the code is free from vulnerabilities, and the operational risks are understood. 
+
+Identity and Access Management, also known as access control, helps authenticate and authorize users, and provide user-specific access to cloud resources, services, and applications.
+
+As part of their Identity and Access Management services, most cloud providers offer users the ability to define access groups and create access policies that define permissions for users on account resources.
+
+Cloud encryption, often referred to as the last line of defense, not only encrypts data, but also provides robust data access control, key management, and certificate management.
+
+Data needs encryption in three states - 
+
+          -   Encryption at rest; protecting data while it is stored
+
+          -   Encryption in transit; protecting data while it is transmitted from one location to another
+
+          -   Encryption in use; protecting data when it is in use in memory
+
+There needs to be active monitoring of all connected systems and cloud-based services to maintain visibility of all data exchanges between public, private, and hybrid cloud environments. This ensures that the cloud provides a trusted platform that can securely integrate with your enterprise data centers.
+
+  
