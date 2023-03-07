@@ -1,0 +1,26 @@
+Module 2 Summary
+In this module, you learned that:
+
+HTML provides the basic structure and content for a website using tags. 
+
+Tags represent the elements of an HTML page. 
+
+The HTML DOM Tree describes how a website is structured. 
+
+HTML uses APIs to enhance the user experience, providing features for advanced animation, audio, and video. 
+
+Scripting provides a more interactive user experience when browsing websites. 
+
+It is recommended to not rely on scripting as it can be disabled. 
+
+HTML5 sandboxes help manage iframe mashups.  
+
+HTML5 Browser Support Tables describe which browsers support which HTML5 features. 
+
+JavaScript is used to check if an element is supported by a browser. 
+
+CSS provides consistent style and design throughout the website. 
+
+There are two types of CSS layouts to design websites: fluid and fixed. 
+
+ 
