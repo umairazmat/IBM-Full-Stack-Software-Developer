@@ -1,2 +1,2 @@
-<h1>Introduction To Cloud Computing Certificate</h1>
+<h1>Getting Started with Git and GitHub</h1>
 <img src="Getting-Started-with-Git-and-GitHub.png" alt="">
