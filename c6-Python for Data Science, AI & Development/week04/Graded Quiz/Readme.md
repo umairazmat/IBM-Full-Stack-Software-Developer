@@ -1,2 +1,2 @@
-<h1>Module 3 Graded Quiz Solution</h1>
+<h1>Module 4 Graded Quiz Solution</h1>
 <img src="GradedQuiz.png" alt="">
