@@ -1,2 +1,2 @@
-<h1>Developing Applications with SQL, Databases, and Django</h1>
-<img src="Developing-Applications-with-SQL-Databases-and-Django.png" alt="">
+<h1>Introduction to Containers w/ Docker, Kubernetes & OpenShift</h1>
+<img src="Introduction-to-Containers-w-Docker,Kubernetes&OpenShift.png" alt="">
