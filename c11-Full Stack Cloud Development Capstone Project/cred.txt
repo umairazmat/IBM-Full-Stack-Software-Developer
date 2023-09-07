@@ -1,0 +1,9 @@
+"apikey": "5e9C_tI1nuX1YwqXofonA_Itc_YOC-ECqeysEjqcvHvZ",
+"url": "https://c7217a21-3200-4601-b52f-a2f7da4554dc-bluemix.cloudantnosqldb.appdomain.cloud"
+
+
+"COUCH_URL": "https://c7217a21-3200-4601-b52f-a2f7da4554dc-bluemix.cloudantnosqldb.appdomain.cloud",
+
+   "IAM_API_KEY": "5e9C_tI1nuX1YwqXofonA_Itc_YOC-ECqeysEjqcvHvZ",
+
+   "COUCH_USERNAME": "c7217a21-3200-4601-b52f-a2f7da4554dc-bluemix"
